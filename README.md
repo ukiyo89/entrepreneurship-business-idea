@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 ForgeX - Build Skills. Stake Discipline.
 
 ForgeX is a comprehensive learning platform that combines authentication, email verification, OTP security, and interest-based learning activities to help users build knowledge in key areas.
@@ -264,3 +265,6 @@ For issues or questions:
 **Built with ❤️ for learners everywhere**
 
 🔥 ForgeX - Build Skills. Stake Discipline.
+=======
+# entrepreneurship-business-idea
+>>>>>>> 54a96db63deab6d1c9b15e307996128eee0180f9
